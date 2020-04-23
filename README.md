@@ -1,6 +1,6 @@
 # COVID19-India API
 
-A volunteer-driven, crowdsourced database for COVID-19 stats & patient tracing in India
+A volunteer-driven, crowdsourced database for COVID-19 stats & patient tracing in India.
 
 ### JSON
 
@@ -72,3 +72,5 @@ Sometimes, having files in a spreadsheet format is more useful for analysts and 
 
 ## Notes
 - Do not use the "Current Status" in raw_data.json as we are rarely able to map the status to the exact patient anymore. This will soon be deprecated in a future version of the API.
+
+
